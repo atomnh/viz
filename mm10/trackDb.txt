@@ -82,39 +82,4 @@ shortLabel HETCTRLvsALLMUT CpGs
 longLabel HETCTRLvsALLMUT CpGs visualization
 type bigWig
 
-track severe.S1812_1.RNA
-bigDataUrl S1812_1.pcdh.bw
-shortLabel S1812_1 RNAseq for Pcdh region
-longLabel S1812_1 RNAseq for Pcdh gene family region
-type bigWig
-
-track ctrl.S1812_3.RNA
-bigDataUrl S1812_3.pcdh.bw
-shortLabel S1812_3 RNAseq for Pcdh region
-longLabel S1812_3 RNAseq for Pcdh gene family region
-type bigWig
-
-track ctrl.S1812_4.RNA
-bigDataUrl S1812_4.pcdh.bw
-shortLabel S1812_4 RNAseq for Pcdh region
-longLabel S1812_4 RNAseq for Pcdh gene family region
-type bigWig
-
-track mild.S1812_5.RNA
-bigDataUrl S1812_5.pcdh.bw
-shortLabel S1812_5 RNAseq for Pcdh region
-longLabel S1812_5 RNAseq for Pcdh gene family region
-type bigWig
-
-track severe.S378_1.RNA
-bigDataUrl S378_1.pcdh.bw
-shortLabel S378_1 RNAseq for Pcdh region
-longLabel S378_1 RNAseq for Pcdh gene family region
-type bigWig
-
-track hetCtrl.S378_5.RNA
-bigDataUrl S378_5.pcdh.bw
-shortLabel S378_5 RNAseq for Pcdh region
-longLabel S378_5 RNAseq for Pcdh gene family region
-type bigWig
 
