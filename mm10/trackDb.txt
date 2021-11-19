@@ -1,0 +1,120 @@
+track ALLCTRLvsALLMUT.DMRs
+bigDataUrl DMR.ALLCTRLvsALLMUT.bw
+shortLabel ALLCTRLvsALLMUT DMRs
+longLabel ALLCTRLvsALLMUT DMRs visualization
+type bigWig
+
+track ALLCTRLvsMILD.DMRs
+bigDataUrl DMR.ALLCTRLvsMILD.bw
+shortLabel ALLCTRLvsMILD DMRs
+longLabel ALLCTRLvsMILD DMRs visualization
+type bigWig
+
+track ALLCTRLvsSEVERE.DMRs
+bigDataUrl DMR.ALLCTRLvsSEVERE.bw
+shortLabel ALLCTRLvsSEVERE DMRs
+longLabel ALLCTRLvsSEVERE DMRs visualization
+type bigWig
+
+track CTRLvsALLMUT.DMRs
+bigDataUrl DMR.CTRLvsALLMUT.bw
+shortLabel CTRLvsALLMUT DMRs
+longLabel CTRLvsALLMUT DMRs visualization
+type bigWig
+
+track CTRLvsMILD.DMRs
+bigDataUrl DMR.CTRLvsMILD.bw
+shortLabel CTRLvsMILD DMRs
+longLabel CTRLvsMILD DMRs visualization
+type bigWig
+
+track CTRLvsSEVERE.DMRs
+bigDataUrl DMR.CTRLvsSEVERE.bw
+shortLabel CTRLvsSEVERE DMRs
+longLabel CTRLvsSEVERE DMRs visualization
+type bigWig
+
+track HETCTRLvsALLMUT.DMRs
+bigDataUrl DMR.HETCTRLvsALLMUT.bw
+shortLabel HETCTRLvsALLMUT DMRs
+longLabel HETCTRLvsALLMUT DMRs visualization
+type bigWig
+
+track ALLCTRLvsALLMUT.CpGs
+bigDataUrl cpg.ALLCTRLvsALLMUT.bw
+shortLabel ALLCTRLvsALLMUT CpGs
+longLabel ALLCTRLvsALLMUT CpGs visualization
+type bigWig
+
+track ALLCTRLvsMILD.CpGs
+bigDataUrl cpg.ALLCTRLvsMILD.bw
+shortLabel ALLCTRLvsMILD CpGs
+longLabel ALLCTRLvsMILD CpGs visualization
+type bigWig
+
+track ALLCTRLvsSEVERE.CpGs
+bigDataUrl cpg.ALLCTRLvsSEVERE.bw
+shortLabel ALLCTRLvsSEVERE CpGs
+longLabel ALLCTRLvsSEVERE CpGs visualization
+type bigWig
+
+track CTRLvsALLMUT.CpGs
+bigDataUrl cpg.CTRLvsALLMUT.bw
+shortLabel CTRLvsALLMUT CpGs
+longLabel CTRLvsALLMUT CpGs visualization
+type bigWig
+
+track CTRLvsMILD.CpGs
+bigDataUrl cpg.CTRLvsMILD.bw
+shortLabel CTRLvsMILD CpGs
+longLabel CTRLvsMILD CpGs visualization
+type bigWig
+
+track CTRLvsSEVERE.CpGs
+bigDataUrl cpg.CTRLvsSEVERE.bw
+shortLabel CTRLvsSEVERE CpGs
+longLabel CTRLvsSEVERE CpGs visualization
+type bigWig
+
+track HETCTRLvsALLMUT.CpGs
+bigDataUrl cpg.HETCTRLvsALLMUT.bw
+shortLabel HETCTRLvsALLMUT CpGs
+longLabel HETCTRLvsALLMUT CpGs visualization
+type bigWig
+
+track severe.S1812_1.RNA
+bigDataUrl S1812_1.pcdh.bw
+shortLabel S1812_1 RNAseq for Pcdh region
+longLabel S1812_1 RNAseq for Pcdh gene family region
+type bigWig
+
+track ctrl.S1812_3.RNA
+bigDataUrl S1812_3.pcdh.bw
+shortLabel S1812_3 RNAseq for Pcdh region
+longLabel S1812_3 RNAseq for Pcdh gene family region
+type bigWig
+
+track ctrl.S1812_4.RNA
+bigDataUrl S1812_4.pcdh.bw
+shortLabel S1812_4 RNAseq for Pcdh region
+longLabel S1812_4 RNAseq for Pcdh gene family region
+type bigWig
+
+track mild.S1812_5.RNA
+bigDataUrl S1812_5.pcdh.bw
+shortLabel S1812_5 RNAseq for Pcdh region
+longLabel S1812_5 RNAseq for Pcdh gene family region
+type bigWig
+
+track severe.S378_1.RNA
+bigDataUrl S378_1.pcdh.bw
+shortLabel S378_1 RNAseq for Pcdh region
+longLabel S378_1 RNAseq for Pcdh gene family region
+type bigWig
+
+track hetCtrl.S378_5.RNA
+bigDataUrl S378_5.pcdh.bw
+shortLabel S378_5 RNAseq for Pcdh region
+longLabel S378_5 RNAseq for Pcdh gene family region
+type bigWig
+

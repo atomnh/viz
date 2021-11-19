@@ -1,0 +1,5 @@
+hub Omics_viz
+shortLabel Omics visualization
+longLabel Omics data visualization
+genomesFile genomes.txt
+email lihua.huang@link.cuhk.edu.hk
