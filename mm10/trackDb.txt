@@ -83,38 +83,38 @@ longLabel HETCTRLvsALLMUT CpGs visualization
 type bigWig
 
 track severe.S1812_1.RNA
-bigDataUrl S1812_1.pcdh.bw
-shortLabel severe.S1812_1.Pcdh.RNA
+bigDataUrl S1812_1.target.bw
+shortLabel severe.S1812_1RNA
 longLabel S1812_1 RNAseq for Pcdh gene family region
 type bigWig
 
 track ctrl.S1812_3.RNA
-bigDataUrl S1812_3.pcdh.bw
-shortLabel ctrl.S1812_3.Pcdh.RNA
+bigDataUrl S1812_3.target.bw
+shortLabel ctrl.S1812_3RNA
 longLabel S1812_3 RNAseq for Pcdh gene family region
 type bigWig
 
 track ctrl.S1812_4.RNA
-bigDataUrl S1812_4.pcdh.bw
-shortLabel ctrl.S1812_4.Pcdh.RNA
+bigDataUrl S1812_4.target.bw
+shortLabel ctrl.S1812_4RNA
 longLabel S1812_4 RNAseq for Pcdh gene family region
 type bigWig
 
 track mild.S1812_5.RNA
-bigDataUrl S1812_5.pcdh.bw
-shortLabel mild.S1812_5.Pcdh.RNA
+bigDataUrl S1812_5.target.bw
+shortLabel mild.S1812_5RNA
 longLabel S1812_5 RNAseq for Pcdh gene family region
 type bigWig
 
 track severe.S378_1.RNA
-bigDataUrl S378_1.pcdh.bw
-shortLabel severe.S378_1.Pcdh.RNA
+bigDataUrl S378_1.target.bw
+shortLabel severe.S378_1RNA
 longLabel S378_1 RNAseq for Pcdh gene family region
 type bigWig
 
 track hetCtrl.S378_5.RNA
-bigDataUrl S378_5.pcdh.bw
-shortLabel hetCtrl.S378_5.Pcdh.RNA
+bigDataUrl S378_5.target.bw
+shortLabel hetCtrl.S378_5RNA
 longLabel S378_5 RNAseq for Pcdh gene family region
 type bigWig
 
