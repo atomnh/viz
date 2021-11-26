@@ -118,3 +118,45 @@ shortLabel hetCtrl.S378_5RNA
 longLabel S378_5 RNAseq for Pcdh gene family region
 type bigWig
 
+track ALLCTRLvsALLMUT.CpGs.block
+bigDataUrl cpg.ALLCTRLvsALLMUT.bb
+shortLabel ALLCTRLvsALLMUT CpGs block
+longLabel ALLCTRLvsALLMUT CpGs block
+type bigBed
+
+track ALLCTRLvsMILD.CpGs.block
+bigDataUrl cpg.ALLCTRLvsMILD.bb
+shortLabel ALLCTRLvsMILD CpGs block
+longLabel ALLCTRLvsMILD CpGs block
+type bigBed
+
+track ALLCTRLvsSEVERE.CpGs.block
+bigDataUrl cpg.ALLCTRLvsSEVERE.bb
+shortLabel ALLCTRLvsSEVERE CpGs block
+longLabel ALLCTRLvsSEVERE CpGs block
+type bigBed
+
+track CTRLvsALLMUT.CpGs.block
+bigDataUrl cpg.CTRLvsALLMUT.bb
+shortLabel CTRLvsALLMUT CpGs block
+longLabel CTRLvsALLMUT CpGs block
+type bigBed
+
+track CTRLvsMILD.CpGs.block
+bigDataUrl cpg.CTRLvsMILD.bb
+shortLabel CTRLvsMILD CpGs block
+longLabel CTRLvsMILD CpGs block
+type bigBed
+
+track CTRLvsSEVERE.CpGs.block
+bigDataUrl cpg.CTRLvsSEVERE.bb
+shortLabel CTRLvsSEVERE CpGs block
+longLabel CTRLvsSEVERE CpGs block
+type bigBed
+
+track HETCTRLvsALLMUT.CpGs.block
+bigDataUrl cpg.HETCTRLvsALLMUT.bb
+shortLabel HETCTRLvsALLMUT CpGs block
+longLabel HETCTRLvsALLMUT CpGs block
+type bigBed
+
